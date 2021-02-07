@@ -6,3 +6,4 @@ create table emp(
     createdate date DEFAULT SYSDATE,
     constraint emp_pk PRIMARY key(empno)
 );
+
